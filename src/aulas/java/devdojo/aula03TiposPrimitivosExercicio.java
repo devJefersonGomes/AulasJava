@@ -1,3 +1,5 @@
+package aulas.java.devdojo;
+
 public class aula03TiposPrimitivosExercicio {
     public static void main(String[] args) {
         String nome = "Jeferson";
