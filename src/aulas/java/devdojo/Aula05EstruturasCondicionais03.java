@@ -8,6 +8,7 @@ public class Aula05EstruturasCondicionais03 {
        String resultado = salario >5000 ? mensagemDoar : mensagemNaoDoar;
        //operador ternario (condição) ? verdadeiro : falso
         //               (salario>5000) (mensagemdoar) (mensagemnaodoar)
+        //sdsd
         System.out.println(resultado);
 
     }

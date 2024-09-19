@@ -16,6 +16,6 @@ public class Aula05Exercicio {
             salario = casoTreis*salario;
         }
         System.out.println(salario);
-
+//
     }
 }
